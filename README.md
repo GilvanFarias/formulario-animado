@@ -1,2 +1,2 @@
 # formulario-animado
-Criando um formulário estilizando e faendo uma animação em JavaScript
+Criando um formulário estilizando e fazendo uma animação em JavaScript
